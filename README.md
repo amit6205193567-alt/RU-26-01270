@@ -85,21 +85,13 @@ A patient record contains:
 
 This is a basic in-memory project. Patient records are stored temporarily in the program's memory. When the program is closed, the records are not saved permanently and will be lost. File or database storage is not included in this version.
 
-## Project Structure
-
-```text
-Hospital-Management-System/
-├── hospital_management_system.py
-└── README.md
-```
-
 ## Learning Objective
 
 This project demonstrates how basic Python concepts can be combined to build a menu-driven application and perform CRUD operations (Create, Read, Update, and Delete) on patient records.
 
 ## Author
 
-Add your name here.
+Amit Kumbhakar
 
 ## License
 
