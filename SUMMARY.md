@@ -50,11 +50,3 @@ python hospital_management_system.py
 ## Conclusion
 This project demonstrates the basic use of Python programming concepts to create a simple patient-record management application. It provides practice with functions, loops, conditions, dictionaries, and basic data operations.
 
-## Submitted By
-**Name:** __________________________
-
-**Course / Branch:** __________________________
-
-**College:** Rungta International Skills University (RISU)
-
-**Academic Year:** __________________________
